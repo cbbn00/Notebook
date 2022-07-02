@@ -26,7 +26,7 @@ client makes a connection to chisel server running on port 80 and forwards local
 
 ----------------------
 
-## Dynamic Port Forwarding
+## Dynamic Port Forward
 -------
 Forwarding all traffic from our machine to the victim using another compromised machine as tunnel.
 For use w proxychains.
