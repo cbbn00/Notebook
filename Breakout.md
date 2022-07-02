@@ -71,9 +71,11 @@ awk 'BEGIN {system("/bin/bash")}'
 ```
 
 https://blog.certcube.com/restricted-shells-escaping-techniques-2/
-https://www.hacknos.com/rbash-escape-rbash-restricted-shell-escape/
------------------------
 
+https://www.hacknos.com/rbash-escape-rbash-restricted-shell-escape/
+
+
+-----------------------
 
 **diffie-hellman-group1-sha1** thingy:
 ```bash
