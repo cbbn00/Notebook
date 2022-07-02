@@ -49,13 +49,13 @@ copy \\IP\share\file_name.exe
 
 ### From windows to our PC:
 
-smb2
+smbserver
 
 ```bash
 python3 smbserver.py -smb2support share .
 ```
 
-smb2 with creds:
+smbserver with creds:
 
 ```bash
 python3 smbserver.py share /home/cibbin/ -smb2support -username cibbin -password root123
